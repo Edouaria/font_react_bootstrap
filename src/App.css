@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "californication";
+  src: url('../src/font/The\ Californication.ttf');
+}
+
+.maclass {
+  font-family: 'californication';
+  color: red !important;
+  font-weight: bold !important;
+}
+
+.maclassp {
+  font-family: 'californication';
+  font-size: 100px;
+  color: red !important
+}
